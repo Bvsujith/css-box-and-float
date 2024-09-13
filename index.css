@@ -1,0 +1,52 @@
+.title{
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+    border: 2px double black;
+}
+.coffee1{
+    margin: 20px;
+    border: 2px solid white;
+    float:left;
+    width: 30%;
+
+    
+}
+.coffee2{
+    margin: 20px;
+
+    width: 30%;
+    border: 2px solid white;
+    float: left;
+
+}
+img{
+    width: 350px;
+    height: 300px;
+    justify-content: center;
+    padding-left:40px;
+    padding-top: 20px;
+
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+    
+.coffee1:hover{
+    background-color: antiquewhite;
+}
+.coffee2:hover{
+    background-color: antiquewhite;
+}
+
+.border{
+    text-align: center;
+    width: 100%;
+
+
+}
+
+    
